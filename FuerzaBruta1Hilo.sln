@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuerzaBruta1Hilo", "FuerzaBruta1Hilo\FuerzaBruta1Hilo.csproj", "{0DAA84C5-AADF-4453-B930-B9E9FFB7950C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DAA84C5-AADF-4453-B930-B9E9FFB7950C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DAA84C5-AADF-4453-B930-B9E9FFB7950C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DAA84C5-AADF-4453-B930-B9E9FFB7950C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DAA84C5-AADF-4453-B930-B9E9FFB7950C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
