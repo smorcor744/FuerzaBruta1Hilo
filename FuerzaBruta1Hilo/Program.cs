@@ -1,8 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using FuerzaBruta1Hilo;
 
+using FuerzaBrutaMultiHilo;
 
-MiHilo t1 = new MiHilo();
-
+FuerzaBruta t1 = new FuerzaBruta();
 t1.Start();
+
